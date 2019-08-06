@@ -4,7 +4,6 @@
 
 [Video demo of this project](https://www.useloom.com/share/e379a633b9b54616a2a05bf0ce5ac88f)
 
-[Full report of this project](final_report.pdf)
 
 1. This is what your original data may look like.
 
@@ -38,3 +37,5 @@
 4. __R__  - For statistical operations on data.
 
 5. __MySQL__ - For data base of this project and customers database.
+
+6. __MongoDB__ - For storing metadata of customer files.
