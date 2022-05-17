@@ -37,5 +37,3 @@
 4. __R__  - For statistical operations on data.
 
 5. __MySQL__ - For data base of this project and customers database.
-
-6. __MongoDB__ - For storing metadata of customer files.
